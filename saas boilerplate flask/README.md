@@ -1,8 +1,4 @@
-Here's an updated **README** that includes build instructions as well as an overview of the codebase to help developers quickly understand the project's structure, features, and functionality:
-
----
-
-# Project Name
+# Saas Boilerplate
 
 This project consists of a Python Flask backend server and a React frontend client, integrated with Supabase for authentication, PostgreSQL database management, and real-time functionality, with Stripe for subscription billing and SendGrid for email notifications.
 
